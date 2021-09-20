@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroutCalculation", "GroutCalculation\GroutCalculation.csproj", "{7CCD7049-DC47-4BAA-9FE6-42ABDADDBF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroutCalculation.Test", "GroutCalculation.Test\GroutCalculation.Test.csproj", "{1A7F577F-E625-4075-8B13-BE6070137468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CCD7049-DC47-4BAA-9FE6-42ABDADDBF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCD7049-DC47-4BAA-9FE6-42ABDADDBF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCD7049-DC47-4BAA-9FE6-42ABDADDBF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCD7049-DC47-4BAA-9FE6-42ABDADDBF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7F577F-E625-4075-8B13-BE6070137468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7F577F-E625-4075-8B13-BE6070137468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7F577F-E625-4075-8B13-BE6070137468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7F577F-E625-4075-8B13-BE6070137468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
